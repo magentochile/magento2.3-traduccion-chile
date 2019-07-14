@@ -16,6 +16,9 @@
         }
     ],
     "minimum-stability": "dev",
+ "require": {
+    "magento/framework": "101.0.*"
+    },
     
     "type": "magento2-language",
     "autoload": {
